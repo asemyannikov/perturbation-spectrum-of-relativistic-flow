@@ -6,8 +6,9 @@ authors:
   - family-names: "Semyannikov"
     given-names: "Alexander V."
     orcid: "https://orcid.org/0009-0007-0926-8272"
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-07-29
+doi: "10.5281/zenodo.21676691"
 license: CC-BY-4.0
 keywords:
   - Michel accretion
