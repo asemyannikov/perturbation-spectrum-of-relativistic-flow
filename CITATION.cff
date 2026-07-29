@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Perturbation Spectrum of Michel Flow: Acoustic, Vortical, and Entropy Modes"
+type: article
+authors:
+  - family-names: "Semyannikov"
+    given-names: "Alexander V."
+    orcid: "https://orcid.org/0009-0007-0926-8272"
+version: 1.0.0
+date-released: 2026-07-29
+license: CC-BY-4.0
+keywords:
+  - Michel accretion
+  - relativistic hydrodynamics
+  - acoustic perturbations
+  - vortical modes
+  - entropy modes
+  - spatial stability
+  - acoustic horizon

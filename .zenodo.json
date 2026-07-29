@@ -1,0 +1,27 @@
+{
+  "title": "Perturbation Spectrum of Michel Flow: Acoustic, Vortical, and Entropy Modes",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "publication_date": "2026-07-29",
+  "creators": [
+    {
+      "name": "Semyannikov, Alexander V.",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0007-0926-8272"
+    }
+  ],
+  "description": "We study the spectrum of linear perturbations of relativistic spherical accretion onto a Schwarzschild black hole (Michel flow), carrying the Newtonian analysis of the spatial stability of Bondi accretion over to full general relativity. Small perturbations of a perfect fluid split into three families — acoustic, vortical, and entropy modes — which we treat together in the language of acoustic geometry. The acoustic sector reduces to a one-dimensional Schrödinger-type equation with an explicit effective potential: it recovers the standard scalar Schwarzschild potential in the vacuum limit and the known Newtonian wave equation of Bondi flow in the nonrelativistic limit. For a transonic Michel background the sonic point coincides exactly with the acoustic horizon, and a Frobenius analysis shows that this horizon replaces the Newtonian central endpoint: the non-trivial radial exponent is purely imaginary, so the local solutions are travelling waves rather than growing powers. Our main result is that the acoustic horizon regularizes the exterior spatial problem. The Newtonian non-radial instability, which operates for γ<5/3, relies on growth towards a point-mass endpoint; the exterior Michel domain has no such endpoint — the relative amplitudes of all three sectors approach finite values at the horizon — and the supersonic shell is causally disconnected from it. Vortical and entropy perturbations are advected invariants with a single ingoing characteristic: frozen into the flow, they are carried through the horizon, and the entropy mode additionally sources sound and vorticity through a relativistic baroclinic term. Numerical integration of the scattering problem confirms flux conservation and the absence of superradiance. The externally accessible flow is therefore free of the Newtonian central power-law instability.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Michel accretion",
+    "relativistic hydrodynamics",
+    "acoustic perturbations",
+    "vortical modes",
+    "entropy modes",
+    "spatial stability",
+    "acoustic horizon"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}
